@@ -46,8 +46,7 @@ The project is built with **LangGraph**, **LangChain**, **Firecrawl**, and a cus
 ├── app.py                  # Streamlit UI
 ├── requirements.txt        # Dependencies
 ├── .env                    # Environment variables
-├── screenshot/
-│   └── result_example.png  # Example output screenshot
+├── screenshots/            # Example output screenshot
 └── README.md               # This file
 ```
 
